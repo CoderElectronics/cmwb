@@ -8,7 +8,7 @@ To make the installer executable run `chmod +x install.sh` in a terminal, once t
 <br />
 The installer can only complete on a linux machine with the apt package manager. We are working on releasing a Mac OS version that will use the homebrew package manager, and eventually a windows version that will use the winget package manager. <br />
 <br />
-## Dependencies
+# Dependencies
 - python3 <br />
 - pip3 <br />
 - cefpython <br />
