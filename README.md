@@ -13,12 +13,12 @@ The installer can only complete on a linux machine with the apt package manager.
 - pip3 <br />
 - cefpython <br />
 - tkinter <br />
-<br />
+
 # Open the Browser
 If you chose the first option to install, you can start the browser by running `python3 browser.py`. <br />
 If you chose the second option to install, you can start the browser by running the desktop or menu shortcut on your linux machine. <br />
-<br />
+
 # Future features
-- Bookmarks
-- History Tracking
-- Python based extensions and APIs to develop with
+- Bookmarks <br />
+- History Tracking <br />
+- Python based extensions and APIs <br />
