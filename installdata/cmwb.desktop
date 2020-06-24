@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=CmWb Browser
+Exec=cmwb 
+Icon=/etc/cmwb/cmwb.png
+Type=Application
+Categories=GTK;GNOME;Internet;
+	

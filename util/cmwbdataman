@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+import sys
+import lib.history as ht
+import lib.bookmarks as bm
